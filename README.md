@@ -220,18 +220,18 @@ height="3.4722222222222223in"}
 `        └── Top_10_Most_Viewed_Videos.sql`
 ## 📥 Sample Output Screenshots
 
-### Top 10 Most Viewed Videos  
-![Top 10 Most Viewed Videos](images/Top%2010%20Most%20Viewed%20Videos.jpeg)
+### Top 10 Most Viewed Videos
+![Top 10 Most Viewed Videos](image/Top_10_Most_Viewed_Videos.jpeg)
 
-### Most Commented Videos  
-![Most Commented Videos](images/Most%20Commented%20Videos.jpeg)
+### Most Active Channels
+![Most Active Channels](image/Most_Active_Channels.jpeg)
 
-### Top 10 Most Disliked Videos  
-![Top 10 Most Disliked Videos](images/Top%2010%20Most%20Disliked%20Videos.jpeg)
+### Most Commented Videos
+![Most Commented Videos](image/Most_Commented_Videos.jpeg)
 
-### Top 10 Most liked Videos  
-![Top 10 Most liked Videos](images/Top%2010%20Most%20liked%20Videos.jpeg)
+### Top 10 Most Disliked Videos
+![Top 10 Most Disliked Videos](image/Top_10_Most_Disliked_Videos.jpeg)
 
-### Most Active Channels (by Trending Appearances)  
-![Most Active Channels](images/Most%20Active%20Channels%20(by%20Trending%20Appearances).jpeg)
+### Top 10 Most liked Videos
+![Top 10 Most liked Videos](image/Top_10_Most_liked_Videos.jpeg)
 
