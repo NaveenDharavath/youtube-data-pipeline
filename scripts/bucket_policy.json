@@ -1,0 +1,21 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowGlueAccessToYouTubeData",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "arn:aws:iam::211125541863:role/glue-s3-role"
+            },
+            "Action": [
+                "s3:GetObject",
+                "s3:PutObject",
+                "s3:ListBucket"
+            ],
+            "Resource": [
+                "arn:aws:s3:::youtube-video-data-naveen",
+                "arn:aws:s3:::youtube-video-data-naveen/*"
+            ]
+        }
+    ]
+}
