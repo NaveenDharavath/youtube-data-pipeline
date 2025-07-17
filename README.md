@@ -87,9 +87,7 @@ ORDER BY CAST(views AS BIGINT) DESC
 
 LIMIT 10;
 
-![A graph of blue bars with white text AI-generated content may be
-incorrect.](media/image1.jpeg){width="5.879588801399825in"
-height="2.9492147856517934in"}
+
 
 **2. Top 10 Most Liked Videos**
 
@@ -106,9 +104,6 @@ ORDER BY max_likes DESC
 
 LIMIT 10;
 
-![A graph of a number of videos AI-generated content may be
-incorrect.](media/image2.jpeg){width="5.782608267716536in"
-height="3.4719991251093614in"}
 
 **3. Top 10 Most Disliked Videos**
 
@@ -125,9 +120,6 @@ ORDER BY max_dislikes DESC
 
 LIMIT 10;
 
-![A graph of a number of videos AI-generated content may be
-incorrect.](media/image3.jpeg){width="5.760869422572179in"
-height="3.4722222222222223in"}
 
 **4. Most Active Channels (by Trending Appearances)**
 
@@ -141,9 +133,7 @@ ORDER BY trending_count DESC
 
 LIMIT 10;
 
-![A graph of blue bars AI-generated content may be
-incorrect.](media/image4.jpeg){width="5.760416666666667in"
-height="3.4722222222222223in"}
+
 
 **5. Most Commented Videos**
 
@@ -160,9 +150,7 @@ ORDER BY max_comments DESC
 
 LIMIT 10;
 
-![A graph of blue bars with white text AI-generated content may be
-incorrect.](media/image5.jpeg){width="5.6630435258092735in"
-height="3.4722222222222223in"}
+
 
 ## 📚 Learnings
 
